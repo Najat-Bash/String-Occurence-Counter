@@ -134,5 +134,3 @@ int countOccurrence(char str[], char arr[][COLUMNS], int len){
 
     return count;
 }
-
-//change
